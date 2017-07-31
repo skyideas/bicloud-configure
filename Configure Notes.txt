@@ -1,0 +1,5 @@
+BI Cloud - Configure Notes.txt
+
+1. This is not what I would build, but there are some good ideas in this:
+https://s3.amazonaws.com/quickstart-reference/tableau/awsdata/latest/doc/data-warehouse-modernization-on-aws-with-tableau-and-redshift.pdf
+2. 
